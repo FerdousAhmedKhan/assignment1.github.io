@@ -1,0 +1,73 @@
+h3{
+    border-bottom: 3px solid green;
+    overflow: hidden;
+    padding-left: 3px;
+    width: 50px;
+    line-height: 30px;
+    }
+
+.column {
+  float: left;
+}
+
+.left {
+  width: 40%;
+}
+
+.middle {
+    padding-left:25px;
+    width: 30%;
+    margin-top: 100px;
+}
+
+.image {
+    height: 400px;
+    background: url(iium_river.jpg);
+    clip-path: polygon(0 0, 0% 100%, 100% 50%);;
+    background-size: contain;
+}
+
+.login{
+    padding-left: 10px;
+}
+
+.right{
+    float:right;
+    width: 25%; 
+}
+
+.logo
+{
+    float: right;
+    width: 200px;
+    height: 50px;
+}
+
+.footer{
+    margin-top:340px;
+    float: right;
+    text-decoration:none;
+}
+
+.dcrtn{
+    color: cornflowerblue;
+    text-decoration: none;
+    padding: 4px;
+    }
+
+.btn{
+    width: 180px;
+    margin: 2px;
+    }
+
+.download{
+    margin-top: 20px;
+    text-decoration: none;
+    
+}
+
+.dlink{
+    color:crimson;
+    text-decoration:underline;
+    
+}
